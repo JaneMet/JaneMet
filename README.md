@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*yBvA5CnEX3Sd4aod.gif" width="400"/>
+</div>
+
+
+
 ## Hi there 👋
 
 <!--
