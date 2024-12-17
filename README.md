@@ -2,7 +2,13 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*yBvA5CnEX3Sd4aod.gif" width="400"/>
 </div>
 
-
+<div id='badges'>
+  <a href="your-linkedin-URL">
+    <img src='https://img.shields.io/badge/HeadHunter-red' alt="hh Badge"/>
+  </a>
+  <a href="https://t.me/evgeniia_metrik">
+    <img src='https://img.shields.io/badge/Telegram-white?logo=Telegram&logoColor=blue' alt="Telegram Badge"/>
+  </a>
 
 ## Hi there 👋
 
